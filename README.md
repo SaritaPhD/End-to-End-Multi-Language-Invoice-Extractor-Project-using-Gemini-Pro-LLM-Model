@@ -2,7 +2,7 @@
 
 ## Multilingual Invoice Extractor Chatbot
 ### Overview
-The Multilingual Invoice Extractor Chatbot is a project developed using Gemini Pro. This chatbot allows users to upload invoice images in various languages and interactively query specific information through prompts. It utilizes advanced OCR and natural language processing techniques to handle different languages and provide accurate results.
+The Multilingual Invoice Extractor Chatbot is a project developed using Gemini Pro. This chatbot allows users to upload invoice images in various languages and interactively query specific information through prompts. It can handle different languages and provide accurate results.
 
 ### Features
 Multilingual Support: Extracts information from invoices in multiple languages.
