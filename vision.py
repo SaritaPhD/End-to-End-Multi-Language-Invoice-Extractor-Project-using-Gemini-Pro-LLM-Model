@@ -1,4 +1,4 @@
-# Q&A Chatbot Using Gemini
+# Q&A Chatbot Using Gemini Pro Model
 
 
 from dotenv import load_dotenv
