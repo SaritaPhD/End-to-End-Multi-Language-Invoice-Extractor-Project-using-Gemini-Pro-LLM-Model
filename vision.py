@@ -7,7 +7,7 @@ import streamlit as st
 import os 
 import pathlib
 import textwrap  
-from PIL import Image
+from PIL import Image 
 
 import google.generativeai as genai
 
