@@ -9,7 +9,7 @@ import pathlib
 import textwrap  
 from PIL import Image  
 
-import google.generativeai as genai
+import google.generativeai as genai 
 
 
 os.getenv("GOOGLE_API_KEY")
